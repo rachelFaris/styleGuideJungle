@@ -1,0 +1,121 @@
+
+
+h1, h2 {
+font-family: 'Prosto One', cursive;
+}
+
+.description {
+ font-family: 'Montserrat', sans-serif;
+ color: #343434;
+ padding-bottom: 15px;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+.section-heading {
+    padding: 0 0 0 15px;
+}
+
+.dividers {
+    border: 2px solid #b1b1b1;
+    min-height: 400px;
+    margin: 15px 0px;
+    padding: 15px;
+}
+
+.pallet {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 15px;
+    vertical-align:top;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: .12em;
+    font-weight: 600;
+  
+  }
+
+.pallet-text-light {
+    color: white; 
+    /* padding-top: 20px; */
+     padding: 20px 10px 0;
+}
+
+.pallet-text-dark {
+    color: #343434;
+    padding: 20px 10px 0;
+}
+
+.color-one {
+    background-color: #264653;
+}
+
+.color-two {
+    background-color: #2a9d8f;
+}
+
+.color-three {
+    background-color: #e9c46a;
+}
+
+.color-four {
+    background-color: #f4a261;
+}
+
+.color-five {
+    background-color: #e76f51;
+}
+
+.light-background {
+    color: black;
+}
+
+.font {
+    display: inline-block;
+    padding: 15px;
+}
+
+.font-one {
+    font-family: 'Prosto One', cursive;
+}
+
+
+.font-two {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.prosto-header {
+text-decoration: underline;
+font-weight: bold;
+}
+
+.montserrat-header {
+text-decoration: underline;
+}
+
+.text-h1 {
+    padding-left: inherit;
+    font-size: 32px;
+    font-family: 'Prosto One', cursive;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-h2 {
+    padding-left: inherit;
+    font-size: 22px;
+    font-family: 'Prosto One', cursive;
+}
+
+.text-p {
+    padding-left: inherit;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
